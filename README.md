@@ -1,4 +1,6 @@
 Context:
+
+
 Client has SQL databases across USA and Canada, which contains addresses that are verified using a Google Maps API.
 However many addresses are flagged as incorrect, because entries often contain typographical errors or are entered in an inconsistent format.
 The database also gets regular updates of ~5,000 entries every month.
