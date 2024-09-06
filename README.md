@@ -11,7 +11,6 @@ AIM 1 (extract.py): Extract address data from 2 columns of messy inputs. Entries
 AIM 2 (standardise.py): Standardise extracted address inputs before verification with Google Maps API. Fix the suffixes as API check may not pick up the abbreviations.
 Standardise the addresses that are meant to be the same location.
 
-(Note: dictionary will have to be manually updated if new abbreviations appear in the new datasets)
 Accuracy is satisfactory, manages to get around 70-80% of entries correctly extracted and standardised. Manual correction will be required for entries that weren't extracted correctly.
 
 
