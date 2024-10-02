@@ -10,7 +10,7 @@ AIM 1 (extract.py): To extract address data from 2 columns of messy inputs. (Ent
 
 AIM 2 (standardise.py): To standardise similar extracted address inputs before verification with Google Maps API. To fix the suffixes as API check may not pick up the abbreviations.
 
-Results: Sample dataset of 868 entries takes 5 minutes to process. Accuracy is satisfactory, the script manages to get around 80% of entries correctly extracted and standardised. Manual correction will be required for entries that weren't extracted correctly.
+Results: Sample dataset of 868 entries takes 3 minutes to process. Accuracy is satisfactory, the script manages to get around 80% of entries correctly extracted and standardised. Manual correction will be required for entries that weren't extracted correctly.
 
 
 NB: project is still a work in progress
